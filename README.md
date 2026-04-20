@@ -33,3 +33,4 @@ graph TD
 Table of contents:
 
 ### 1. 🔐 [Access Modifiers](accessModifiers/README.md)
+### 2. 🏛️ [Pillars of OOPs](pillersOfOops/README.md)
