@@ -35,3 +35,4 @@ Table of contents:
 ### 1. 🔐 [Access Modifiers](accessModifiers/README.md)
 ### 2. 🏛️ [Pillars of OOPs](pillersOfOops/README.md)
 ### 3. 🏗️ [UML Diagrams](umlDiagrams/README.md)
+### 4. 🧱 [SOLID Principles](solidPrinciples/README.md)
