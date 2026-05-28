@@ -1125,5 +1125,4 @@ You wrap the `SimpleCoffee` object with a `MilkDecorator`, then wrap that with a
 * **Decorator** changes the *skin* (the external behavior/wrapping) of the object.
 
 
-
 ---
